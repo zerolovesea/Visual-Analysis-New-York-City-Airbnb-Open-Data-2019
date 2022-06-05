@@ -1,0 +1,2 @@
+# Visual-Analysis-New-York-City-Airbnb-Open-Data-2019
+This project is based on 2019 New York City Airbnb Open Data, sourced from https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data. The tool used is Jupyter Notebook, the language is Python, and the libraries used are numpy, panda, seaborn, and matplotlib.      该项目基于2019年纽约市Airbnb开放数据，数据来源于https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data。使用工具为Jupyter Notebook，语言为Python，使用的库为numpy，panda，seaborn，matplotlib。
